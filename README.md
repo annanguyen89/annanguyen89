@@ -5,7 +5,7 @@ Connect with me at [nanna5671@gmail.com](mailto:nanna5671@gmail.com) or [LinkedI
 ## About Me
 - 👩🏻‍💻 Former DevOps Intern at NFQ Vietnam
 - 🎓 Computer Science and Data Analytics (Digital Humanities minor) student at Denison University, OH
-- 💻 Interested in Full Stack Development, Cloud Computing, and Big Data Engineering
+- 💻 Interested in Full Stack Development, Machine Learning, and Cloud Computing
 - 🧑‍🤝‍🧑 Making some of my first open-source contributions and would love to contribute more
 - I’m open to Software Engineer Intern Opportunities
 

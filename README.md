@@ -34,7 +34,7 @@ Connect with me at [nanna5671@gmail.com](mailto:nanna5671@gmail.com) or [LinkedI
 - Excel
 
 ## Resume
-[View my resume here](https://drive.google.com/file/d/1c213X2Iv04H8Hj70GY5x8crCVwDSyq9X/view?usp=sharing)
+[View my resume here](https://drive.google.com/file/d/18qPl6bHbaa7Qoq0OZ7xOkAymLjiW9ll9/view?usp=sharing)
 
 ## Outside of Work
 - Content Creator on Youtube 🎥
